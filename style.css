@@ -1,0 +1,21 @@
+.btn {
+  padding: .5rem 1rem;
+}
+
+body {
+  background-image: url('./img/foto1.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+/* .container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+} */
+
+img {
+  width: 100%;
+}
